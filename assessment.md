@@ -1,7 +1,7 @@
 # Chemical Informatics
 
 ## Introduction
-The workshop relates ‘Solubility Challenge’ as described in a couple of papers Llinas et al, 'Solubility Challenge:...', J. Chem. Inf. Model, 48, 2008, 1289-303 and Hopfinger et al, 'Findings of the Challenge...', J. Chem. Inf. Model, 49, 2009, 1–5
+The assessment refers to the ‘Solubility Challenge’ as described in a couple of papers Llinas et al, 'Solubility Challenge:...', J. Chem. Inf. Model, 48, 2008, 1289-303 and Hopfinger et al, 'Findings of the Challenge...', J. Chem. Inf. Model, 49, 2009, 1–5
 
 The objective will be to build a Quantitative Structure Property Relationship (QSPR) model for solubility using the descriptor sets calculated by the Dragon software package and evaluate the models you build.
 
