@@ -1,0 +1,21 @@
+name: cheminfo_WS1
+channels:
+  - rdkit
+  - conda-forge
+  - defaults
+dependencies:
+ - python=3.6
+ - ipython
+ - ipykernel==4.6.1
+ - jupyter
+ - notebook
+ - ipywidgets
+ - notebook
+ - numpy
+ - scipy
+ - pandas
+ - scikit-learn
+ - matplotlib
+ - seaborn
+ - rdkit
+
