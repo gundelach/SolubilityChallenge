@@ -1,0 +1,33 @@
+NAME,S (_g/L),SMILES,MW,Sv,Si,nROH,nOHp,nHDon,nHAcc,Hy,MLOGP,ALOGP
+Acebutolol,711,CCCC(=O)Nc1ccc(c(c1)C(=O)C)OCC(CNC(C)C)O,336.48,29.75,59.232,1,0,3,6,0.998,1.589,1.615
+Amoxicillin,3900,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)/N=C(\[C@@H](c3ccc(cc3)O)N)/O)C(=O)O)C,365.45,28.04,49.784,1,0,5,8,2.686,0.581,0.21
+Bendroflumethiazide,21.2,c1ccc(cc1)CC2Nc3cc(c(cc3S(=O)(=O)N2)S(=O)(=O)N)C(F)(F)F,421.46,28.135,47.098,0,0,4,10,1.881,1.582,2.179
+Benzocaine,780,CCOC(=O)c1ccc(cc1)N,165.21,14.085,25.993,0,0,2,3,0.59,1.783,1.288
+Benzthiazide,6.4,c1ccc(cc1)CSCC2=Nc3cc(c(cc3S(=O)(=O)N2)S(=O)(=O)N)Cl,431.98,28.473,44.528,0,0,3,7,1.126,1.793,2.498
+2-chloromandelic_acid,TOO SOLUBLE TO MEASURE,c1ccc(cc1)CSCC2=Nc3cc(c(cc3S(=O)(=O)N2)S(=O)(=O)N)Cl,186.6,13.079,21.233,2,0,2,3,0.671,1.515,1.588
+Clozapine,188.9,CN1CCN(CC1)C2=Nc3cc(ccc3Nc4c2cccc4)Cl,326.86,27.128,47.259,0,0,1,4,-0.326,2.965,3.947
+Dibucaine,14,CCCCOc1cc(c2ccccc2n1)/C(=N/CCN(CC)CC)/O,343.52,31.342,61.311,0,0,1,5,-0.356,3.282,3.912
+Diethylstilbestrol,10,CC/C(=C(/CC)\c1ccc(cc1)O)/c2ccc(cc2)O,268.38,24.698,44.571,0,0,2,2,0.213,3.956,5.087
+Diflunisal,0.29,c1cc(c(cc1c2ccc(cc2F)F)C(=O)O)O,250.21,18.545,29.384,1,0,2,5,0.429,3.993,3.096
+Dipyridamole,3.46,C1CCN(CC1)c2c3c(c(nc(n3)N(CCO)CCO)N4CCCCC4)nc(n2)N(CCO)CCO,504.72,43.459,87.467,4,4,4,12,1.578,2.029,2.484
+Ephedrine,TOO SOLUBLE TO MEASURE,O[C@H](c1ccccc1)[C@@H](NC)C,165.26,15.424,30.614,1,0,2,2,0.509,1.664,1.235
+Folic_Acid,2.5,c1cc(ccc1C(=O)NC(CCC(=O)O)C(=O)O)NCc2cnc3c(n2)c(nc(n3)N)O,441.45,33.599,58.236,2,0,7,13,4.186,1.084,0.51
+Furosemide,19.6,c1cc(oc1)CNc2cc(c(cc2C(=O)O)S(=O)(=O)N)Cl,330.77,22.265,35.984,1,0,4,7,2.062,0.434,1.714
+Hydrochlorothiazide,625,c1c2c(cc(c1Cl)S(=O)(=O)N)S(=O)(=O)NCN2,297.77,17.706,28.362,0,0,4,7,2.409,-0.547,0.038
+Imipramine,22,c1cc3c(cc1)CCc2c(cccc2)N3CCCN(C)C,280.45,26.838,50.564,0,0,0,2,-0.891,3.876,4.388
+Indomethacin,410,Cc1c(c2cc(ccc2n1C(=O)c3ccc(cc3)Cl)OC)CC(=O)O,357.81,27.923,45.602,1,0,1,4,-0.317,3.318,4.211
+Ketoprofen,157,CC(c1cccc(c1)C(=O)c2ccccc2)C(=O)O,254.3,21.832,36.535,1,0,1,3,-0.353,3.374,3.336
+Lidocaine,3130,CCN(CC)C/C(=N\c1c(cccc1C)C)/O,234.38,22.026,44.358,0,0,1,3,-0.314,2.52,2.84
+Marbofloxacin,TOO SOLUBLE TO MEASURE,CN1CCN(CC1)c2c(cc3c4c2OCN(n4cc(c3=O)C(=O)O)C)F,362.4,28.543,51.492,1,0,1,9,-0.218,1.381,1.356
+Meclofenamic_acid,0.16,CN1CCN(CC1)c2c(cc3c4c2OCN(n4cc(c3=O)C(=O)O)C)F,296.16,21.267,33.296,1,0,2,3,0.393,3.988,4.8
+Naphthoic_acid,28.96,CN1CCN(CC1)c2c(cc3c4c2OCN(n4cc(c3=O)C(=O)O)C)F,172.19,14.537,23.08,1,0,1,2,-0.277,2.777,2.343
+Probenecid,3.9,CCCN(CCC)S(=O)(=O)c1ccc(cc1)C(=O)O,165.26,15.424,30.614,1,0,2,2,0.509,1.664,1.235
+Pseudoephedrine,TOO SOLUBLE TO MEASURE,C[C@@H]([C@H](c1ccccc1)O)NC,285.4,22.809,42.993,1,0,1,5,-0.198,1.979,2.821
+Pyrimethamine,19.4,Clc2ccc(c1c(nc(nc1CC)N)N)cc2,248.74,19.547,34.013,0,0,4,4,2.12,3.048,2.751
+Salicylic_acid,1620,O=C(Oc1ccccc1C(=O)O)C,138.13,10.725,17.874,1,0,2,3,0.743,1.643,1.167
+Sulfamerazine,300,Cc1ccnc(n1)NS(=O)(=O)c2ccc(cc2)N,264.34,19.81,33.993,0,0,3,6,1.306,0.779,1.068
+Sulfamethizole,450,Cc1nnc(s1)NS(=O)(=O)c2ccc(cc2)N,270.37,18.47,30.498,0,0,3,6,1.424,0.667,0.778
+Terfenadine,0.00856,CC(C)(C)c1ccc(cc1)C(CCCN2CCC(CC2)C(c3ccccc3)(c4ccccc4)O)O,471.74,44.987,85.221,2,0,2,3,0.02,4.944,6.498
+Thiabendazole,66,c1ccc2c(c1)[nH]c(n2)c3cscn3,201.27,15.305,23.245,0,0,1,2,-0.166,1.526,2.155
+Tolbutamide,93,CCCC/N=C(/NS(=O)(=O)c1ccc(cc1)C)\O,270.39,21.589,40.866,0,0,2,5,0.483,1.439,2.336
+Trazodone,127,c1ccn2c(c1)nn(c2=O)CCCN3CCN(CC3)c4cccc(c4)Cl,371.91,30.391,54.382,0,0,0,6,-0.722,3.525,2.419
